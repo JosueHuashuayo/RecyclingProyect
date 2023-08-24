@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">RecyclingApp</string>
-    <string name="texto_con_formato">Inicia sesión con tu cuenta de <b>BioTec</b></string>
+    <string name="texto_con_formato_login">Inicia sesión con tu cuenta de <b>BioTec</b></string>
+    <string name="texto_con_formato_login2">Si no tienes una cuenta <b>Registrate</b></string>
+    <string name="texto_con_formato_register">Registrate en <b>BioTec</b> llenando los siguientes datos</string>
+    <string name="texto_con_formato_register_2">¿Ya tienes una cuenta? <b>Inicia Sesión</b></string>
+
+
 </resources>

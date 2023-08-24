@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635318265697",
+    "project_id": "recyclingapp-f354d",
+    "storage_bucket": "recyclingapp-f354d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635318265697:android:96c6c2dd129b942f438720",
+        "android_client_info": {
+          "package_name": "com.quantumsoft.recyclingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635318265697-sfb4j2sj34dc75stg80ckcsn8rjtvamp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAquunpzIIBzmzPYOquVJN-jyVNOapF4K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635318265697-sfb4j2sj34dc75stg80ckcsn8rjtvamp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
